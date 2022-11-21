@@ -1,0 +1,23 @@
+body {
+    width: 1200px;
+}
+.header {
+    display: flex;
+    padding: 10px 20px;
+    justify-content: space-between;
+    width: 1200px;
+    align-content: center;
+    border: 1px solid rgb(208, 208, 208);
+}
+
+.menu ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    flex: 1;
+    flex-flow: row wrap;
+    flex-direction: row;
+    width: 700px;
+    align-content: center;
+}
+
