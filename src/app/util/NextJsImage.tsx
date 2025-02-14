@@ -6,7 +6,27 @@ import {
   useLightboxState,
 } from "yet-another-react-lightbox";
 
-function isNextJsImage(slide) {
+
+
+interface Slide {
+  width: number;
+  height: number;
+  blurDataURL?: string;
+  src: string;
+}
+
+interface Rect {
+  width: number;
+  height: number;
+}
+
+interface NextJsImageProps {
+  slide: Slide;
+  offset: number;
+  rect: Rect;
+}
+
+function isNextJsImage(slide: any): slide is Slide {
   return (
     isImageSlide(slide) &&
     typeof slide.width === "number" &&
@@ -14,7 +34,7 @@ function isNextJsImage(slide) {
   );
 }
 
-export default function NextJsImage({ slide, offset, rect }) {
+export default function NextJsImage({ slide, offset, rect }: NextJsImageProps) {
   const {
     on: { click },
     carousel: { imageFit },
@@ -43,7 +63,7 @@ export default function NextJsImage({ slide, offset, rect }) {
       <Image
         fill
         alt=""
-        src={slide}
+        src={slide.src}
         loading="eager"
         draggable={false}
         placeholder={slide.blurDataURL ? "blur" : undefined}
