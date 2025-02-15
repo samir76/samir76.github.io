@@ -72,5 +72,5 @@ body {
 }
 
 react-photo-album--image{
-  @apply rounded-lg border shadow;
+  @apply !rounded-lg !border !shadow;
 }
