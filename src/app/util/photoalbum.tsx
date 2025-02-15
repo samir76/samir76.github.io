@@ -30,7 +30,7 @@ export default function Photoalbum({ photos }: photoalbumProps) {
         photos={photos} 
         targetRowHeight={350} 
         onClick={({ index }) => setIndex(index)} 
-        className="rounded-xl border shadow"/>
+        />
   
         <Lightbox
           slides={photos}
