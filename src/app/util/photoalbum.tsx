@@ -26,7 +26,11 @@ export default function Photoalbum({ photos }: photoalbumProps) {
 
     return (
       <>
-        <RowsPhotoAlbum photos={photos} targetRowHeight={350} onClick={({ index }) => setIndex(index)} />
+        <RowsPhotoAlbum 
+        photos={photos} 
+        targetRowHeight={350} 
+        onClick={({ index }) => setIndex(index)} 
+        className="rounded-xl border shadow"/>
   
         <Lightbox
           slides={photos}
