@@ -59,7 +59,7 @@ export const farmguide_addesigns = [
    alt: "MojorTrailors",
  },
  {
-   src: "/img/company_ads/Ford-ads-2.png",
+   src: "/img/company_ads/Ford-ad-2.png",
    width: 600,
    height: 400,
    alt: "Fod-ads-01",
