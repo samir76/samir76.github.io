@@ -375,6 +375,18 @@ export const social_ads = [
     width: 1080,
     height: 1540,
      alt: "book-ver-2021-2", 
+  }, 
+  {
+    src: "/img/social_ads/farming-3-.png",
+    width: 1080,
+    height: 1080,
+     alt: "farming-3-", 
+  },
+  {
+    src: "/img/social_ads/SA_2023.JPG",
+    width: 1080,
+    height: 1080,
+     alt: "SA_2023",
   },
   {
     src: "../img/social_ads/FG-7.png",
@@ -393,6 +405,18 @@ export const social_ads = [
     width: 831,
     height: 1080,
      alt: "online_article_pricelist", 
+  },
+  {
+    src: "/img/social_ads/Search-At-Farmguide-2.png",
+    width: 613,
+    height: 480,
+     alt: "Search-At-Farmguide-2",
+  },
+  {
+    src: "/img/social_ads/WA_2023.jpg",
+    width: 823,
+    height: 1184,
+     alt: "WA_2023",
   },
   {
     src: "../img/social_ads/specklePark-2022-v3.jpg",
