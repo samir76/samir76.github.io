@@ -1,6 +1,6 @@
 "use client";
 
-// import MasonryCardsOnImages  from "@/app/util/cardsonimages";
+
 import MyHeader from "@/components/ui/header";
 import Photoalbum from "@/app/util/photoalbum";
 import {social_ads} from "@/app/items/farmguide"; 
@@ -16,7 +16,7 @@ export default function farmguide() {
       <TheBreadcrumbs/>
           
       <div className="mt-10 mb-5">
-        <h2 className="font-extrabold text-3xl text-gray-600 mb-5">Farmguide Ads Design</h2>
+        <h2 className="font-extrabold text-3xl text-gray-600 mb-5">FARMGUIDE ADS DESIGN</h2>
         <p className="text-balance text-gray-500 text-lg mt-4 mb-8">this is social media ads and media kits designed for Farmguide. <br/>
         Feel free to have a look! <br/>
         <span className="font-bold italic">(Click on one of the images to View in Slideshow format or in Full Screen.)</span></p>

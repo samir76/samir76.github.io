@@ -62,7 +62,7 @@ export const farmguide_addesigns = [
    src: "/img/company_ads/Ford-ad-2.png",
    width: 600,
    height: 400,
-   alt: "Fod-ads-01",
+   alt: "Ford-ad-2",
  },
 
  {
@@ -186,6 +186,43 @@ export const pageup_onboarding = [
     height: 870,
     alt: "demo4",
   },
+
+] as Photo[];
+
+
+
+export const vortex = [
+  {
+    src: "/img/vortex/vortex-1.jpg",
+    width: 1080,
+    height: 1185,
+    alt: "votex-1",
+  },
+  {
+    src: "/img/vortex/vortex-5.jpg",
+    width: 1080,
+    height: 1147,
+    alt: "vortex-5",
+  }, 
+   {
+    src: "/img/vortex/vortex-2.jpg",
+    width: 1080,
+    height: 1036,
+    alt: "vortex-2",
+  },
+  {
+    src: "/img/vortex/vortex-3.jpg",
+    width: 1080,
+    height: 875,
+    alt: "vortex-3",
+  }, 
+  {
+    src: "/img/vortex/vortex-4.jpg",
+    width: 1080,
+    height: 1209,
+    alt: "vortex-4",
+  }, 
+
 
 ] as Photo[];
 

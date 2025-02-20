@@ -1,6 +1,6 @@
 "use client";
 
-// import MasonryCardsOnImages  from "@/app/util/cardsonimages";
+
 import MyHeader from "@/components/ui/header";
 import Photoalbum from "@/app/util/photoalbum";
 import {farmguide_site} from "@/app/items/farmguide"; 
@@ -17,12 +17,12 @@ export default function farmguide() {
       
 
       <div className="mt-10 mb-5">
-        <h2 className="font-extrabold text-3xl text-gray-600 mb-5">My Projects at farmguide</h2>
-        <p className="text-balance text-gray-500 text-lg mt-4 mb-8">My farmguide projects mostly consist of Design and websites <br/>
+        <h2 className="font-extrabold text-3xl text-gray-600 mb-5">SHOWCASE OF FARMGUIDE WEBSITE</h2>
+        <p className="text-balance text-gray-500 text-lg mt-4 mb-8">My farmguide projects mostly consist of Design and websites. This is the main farmguide site that I designed and maintained. <br/>
         (Click on one of the images to View in Slideshow format or in Full Screen.)</p>
       </div>
 
-     {/* <MasonryCardsOnImages /> */}
+
 
      
 <Photoalbum photos={farmguide_site} />

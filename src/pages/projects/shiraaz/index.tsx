@@ -1,6 +1,6 @@
 "use client";
 
-// import MasonryCardsOnImages  from "@/app/util/cardsonimages";
+
 import MyHeader from "@/components/ui/header";
 import Photoalbum from "@/app/util/photoalbum";
 import {gizham} from "@/app/items/farmguide"; 
@@ -16,7 +16,7 @@ export default function farmguide() {
       <TheBreadcrumbs/>
           
       <div className="mt-10 mb-5">
-        <h2 className="font-extrabold text-3xl text-gray-600 mb-5">Gizham Website</h2>
+        <h2 className="font-extrabold text-3xl text-gray-600 mb-5">WEBSITE SHOWCASE for SHIRAAZ Co.</h2>
         <p className="text-balance text-gray-500 text-lg mt-4 mb-8">This is versions of a design I did for an ad of a product. <br/>
         Feel free to have a look! <br/>
         <span className="font-bold italic">(Click on one of the images to View in Slideshow format or in Full Screen.)</span></p>
