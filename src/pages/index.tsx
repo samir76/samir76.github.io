@@ -23,15 +23,17 @@ export default function Home() {
 
       <main className="relative flex flex-col justify-start bg-slate-50 overflow-hidden">
       <div className="w-full max-w-5xl mx-auto px-4 md:px-6 py-7">
-        <div className="space-y-4">
-          <h2 className="text-3xl font-bold mb-5 text-gray-500">
-            My Projects
-            <span className="text-xl text-blue-500 mx-5">
-              <Link href="/projects">View All</Link>
-            </span>
-          </h2>
+        <div className="flex flex-row items-center gap-5 mb-5">
+          <h2 className="text-3xl font-bold text-gray-500">My Projects</h2>
+          <p className="text-base text-white py-1 px-3 rounded-lg bg-gray-500">
+            <Link href="/projects">View All</Link>
+          </p>
+        </div>
+
+        <hr className="mb-4"/>
+
       <ImageGrid images={cardImages.slice(0,3)} />
-      </div>
+
       </div>
     </main>
 
