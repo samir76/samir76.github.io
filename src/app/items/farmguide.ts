@@ -38,12 +38,6 @@ export const farmguide_site = [
     alt: "farmguideSite-part-6",
   },
   {
-    src: "/img/farmguide/farmguideSite-part-7.jpg",
-    width: 1200,
-    height: 720,
-    alt: "farmguideSite-part-7",
-  },
-  {
     src: "/img/farmguide/farmguideSite-part-8.jpg",
     width: 1200,
     height: 1227,
@@ -189,8 +183,6 @@ export const pageup_onboarding = [
 
 ] as Photo[];
 
-
-
 export const vortex = [
   {
     src: "/img/vortex/vortex-1.jpg",
@@ -226,7 +218,6 @@ export const vortex = [
 
 ] as Photo[];
 
-
 export const Tomorrow_Foundation = [
   {
     src: "/img/TF/Home.jpg",
@@ -255,7 +246,6 @@ export const Tomorrow_Foundation = [
 
 ] as Photo[];
 
-
 export const alway = [
   {
     src: "/img/alway/Alway_Design-1.png",
@@ -283,7 +273,6 @@ export const alway = [
   }, 
 
 ] as Photo[];
-
 
 export const awash = [
 
@@ -341,7 +330,6 @@ export const exp = [
   }
 ] as Photo[];
 
-
 export const gizham = [
   {
     src: "/img/gizham/page1.jpg",
@@ -363,7 +351,6 @@ export const gizham = [
   },
  
 ] as Photo[];
-
 
 export const rst = [
   {

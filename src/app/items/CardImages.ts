@@ -85,3 +85,82 @@ export const cardImages = [
   },
   
 ];
+
+export const Details = [
+  {
+    id: 1,
+    name: "/projects/alway/",
+    title: 'ALWAY DESIGN',
+    description: 'This is versions of a design I did for an ad of a product.',
+  },
+  {
+    id: 2,
+    name: "/projects/awash/",
+    title: 'WEBSITE SHOWCASE (AWASH RESTAURANT)',
+    description: 'This is the website I did for Awash restaurant.',
+  },
+  {
+    id: 3,
+    name: "/projects/exp/",
+    title: 'AD DESIGNS FOR OTHER COMPANIES',
+    description: 'My farmguide projects mostly consist of DesignS and websites',
+  },
+  {
+    id: 4,
+    name: "/projects/farmguide_site/",
+    title: 'SHOWCASE OF FARMGUIDE WEBSITE',
+    description: 'My farmguide projects mostly consist of Design and websites. This is the main farmguide site that I designed and maintained.', 
+  },
+  {
+    id: 5,
+    name: "/projects/farmguide_addesigns/",
+    title: 'FARMGUIDE AD DESIGNS FOR OTHER COMPANIES',
+    description: 'My farmguide projects mostly consist of Design and websites.',
+  },
+  {
+    id: 6,
+    name: "/projects/gizham/",
+    title: 'WEBSITE SHOWCASE for GIZHAM Co.',
+    description: 'This is versions of Website design I did for Gizham CO.',
+  },
+  {
+    id: 7,
+    name: "/projects/pageup_onboarding/",
+    title: 'MY ONBOARDING PROJECTS AT PAGEUP',
+    description: 'Those are the onboarding projects that I did for various companies.',
+     
+  },
+  {
+    id: 8,
+    name: "/projects/rst/",
+    title: 'DEISGN FOR ALWAY MATS',
+    description: 'This is versions of a design I did for an ad of an ad product design for alway mats.',
+     
+  },
+  {
+    id: 9,
+    name: "/projects/shiraaz/",
+    title: 'WEBSITE SHOWCASE for SHIRAAZ Co.',
+    description: 'This is versions of a design I did for an ad of a product.',
+     
+  },
+  {
+    id: 10,
+    name: "/projects/social_ads/",
+    title: 'FARMGUIDE ADS DESIGN',
+    description: 'this is social media ads and media kits designed for Farmguide.',
+  },
+  {
+    id: 11,
+    name: "/projects/Tomorrow_Foundation/",
+    title: 'WEBSITE SHOWCASE (TOMORROW FOUNDATION)',
+    description: 'here is the Tomorrow foundation (now changed its name to RMCC) back in 2016.',
+     
+  },
+  {
+    id: 12,
+    name: "/projects/vortex/",
+    title: 'WEBSITE SHOWCASE FOR VORTEX',
+    description: 'this site is one of the design I did for Vortex, and submitted to them.'
+  },
+];
