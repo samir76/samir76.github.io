@@ -90,77 +90,77 @@ export const Details = [
   {
     id: 1,
     name: "/projects/alway/",
-    title: 'ALWAY DESIGN',
-    description: 'This is versions of a design I did for an ad of a product.',
+    title: 'WEBSITE SHOWCASE (ALWAY MATTING)',
+    description: 'This is a showcase of a design I made for an advert for Alway Matting product.',
   },
   {
     id: 2,
     name: "/projects/awash/",
     title: 'WEBSITE SHOWCASE (AWASH RESTAURANT)',
-    description: 'This is the website I did for Awash restaurant.',
+    description: 'This is a showcase of the website design I made for Awash restaurant.',
   },
   {
     id: 3,
     name: "/projects/exp/",
     title: 'AD DESIGNS FOR OTHER COMPANIES',
-    description: 'My farmguide projects mostly consist of DesignS and websites',
+    description: 'This is a showcase of one of my favorite personal HTML PojectS',
   },
   {
     id: 4,
     name: "/projects/farmguide_site/",
     title: 'SHOWCASE OF FARMGUIDE WEBSITE',
-    description: 'My farmguide projects mostly consist of Design and websites. This is the main farmguide site that I designed and maintained.', 
+    description: 'This is a showcase of farmguide site that I designed and maintained.', 
   },
   {
     id: 5,
     name: "/projects/farmguide_addesigns/",
     title: 'FARMGUIDE AD DESIGNS FOR OTHER COMPANIES',
-    description: 'My farmguide projects mostly consist of Design and websites.',
+    description: 'This is a showcase of Advert design that I made for company customers at Farmguide.',
   },
   {
     id: 6,
     name: "/projects/gizham/",
     title: 'WEBSITE SHOWCASE for GIZHAM Co.',
-    description: 'This is versions of Website design I did for Gizham CO.',
+    description: 'This is a showcase of a Website design I made for Gizham CO.',
   },
   {
     id: 7,
     name: "/projects/pageup_onboarding/",
     title: 'MY ONBOARDING PROJECTS AT PAGEUP',
-    description: 'Those are the onboarding projects that I did for various companies.',
+    description: 'This is a showcase of onboarding project designs that I made for various companies at PageUp.',
      
   },
   {
     id: 8,
     name: "/projects/rst/",
-    title: 'DEISGN FOR ALWAY MATS',
-    description: 'This is versions of a design I did for an ad of an ad product design for alway mats.',
+    title: 'DEISGN FOR RST Driving instructors Co.',
+    description: 'This is a showcase of a one-page website design I made for RST Driving instructors Co.',
      
   },
   {
     id: 9,
     name: "/projects/shiraaz/",
     title: 'WEBSITE SHOWCASE for SHIRAAZ Co.',
-    description: 'This is versions of a design I did for an ad of a product.',
+    description: 'This is a showcase of a Website I made for shiraaz PLC.',
      
   },
   {
     id: 10,
     name: "/projects/social_ads/",
     title: 'FARMGUIDE ADS DESIGN',
-    description: 'this is social media ads and media kits designed for Farmguide.',
+    description: 'This is a showcase of social media ads designs for Farmguide, that are posted on company social media, such as facebook and instagram.',
   },
   {
     id: 11,
     name: "/projects/Tomorrow_Foundation/",
     title: 'WEBSITE SHOWCASE (TOMORROW FOUNDATION)',
-    description: 'here is the Tomorrow foundation (now changed its name to RMCC) back in 2016.',
+    description: 'This is a showcase of a website I made for Tomorrow foundation (now changed its name to RMCC) back in 2016.',
      
   },
   {
     id: 12,
     name: "/projects/vortex/",
     title: 'WEBSITE SHOWCASE FOR VORTEX',
-    description: 'this site is one of the design I did for Vortex, and submitted to them.'
+    description: 'This is a websitedesign I made for Vortex, and submitted to them as clients to Farmguide.'
   },
 ];
