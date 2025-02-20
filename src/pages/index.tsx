@@ -32,9 +32,9 @@ export default function Home() {
 
         <hr className="mb-4"/>
 
-      {/* <ImageGrid images={cardImages.slice(1,4)} /> */}
-
       <ImageGrid images={[cardImages[0], cardImages[1], cardImages[3]]} />
+
+      {/* <ImageGrid images={cardImages.slice(1,4)} /> */}
 
       </div>
     </main>
