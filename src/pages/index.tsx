@@ -9,7 +9,7 @@ import { MyTypewriter } from "@/app/util/Mytypewriter";
 import { SkillsCarousel } from "@/app/util/carousels";
 import Footer from "@/app/util/footer";
 
-import Link from "next/link";
+import Link from "next/link" ;
 
 
 export default function Home() {
