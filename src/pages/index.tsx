@@ -34,20 +34,8 @@ export default function Home() {
 
       <ImageGrid images={[cardImages[0], cardImages[1], cardImages[3]]} />
 
-      {/* <ImageGrid images={cardImages.slice(1,4)} /> */}
+      <ImageGrid images={cardImages.slice(1,4)} />
 
-        <div className="flex flex-row items-center gap-5 mb-5">
-          <h2 className="text-3xl font-bold text-gray-500">My Projects</h2>
-          <p className="text-base text-white py-1 px-3 rounded-lg bg-gray-500">
-            <Link href="/projects">View All</Link>
-          </p>
-        </div>
-
-        <hr className="mb-4"/>
-
-{/*       <ImageGrid images={cardImages.slice(0,3)} /> */}
-
-         <ImageGrid images={[cardImages[0], cardImages[1], cardImages[3]]} />
 
       </div>
     </main>
