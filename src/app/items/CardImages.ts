@@ -13,19 +13,19 @@ export const cardImages = [
     badge: "Design",
     parts: "Farmguide_ads",
   },
+    {
+    src: "/img/social_ads/FG-5-new.png",
+    alt: "social_ads",
+    url: "/projects/social_ads",
+    badge: "Design",
+    parts: "social_ads",
+  },
   {
     src: "/img/pageup_onboarding/Pageup_onboarding.png",
     alt: "Pageup_onboarding",
     url: "/projects/pageup_onboarding",
     badge: "Website",
     parts: "Onboarding",
-  },
-  {
-    src: "/img/social_ads/FG-5-new.png",
-    alt: "social_ads",
-    url: "/projects/social_ads",
-    badge: "Design",
-    parts: "social_ads",
   },
   {
     src: "/img/vortex/vortex-1.jpg",
