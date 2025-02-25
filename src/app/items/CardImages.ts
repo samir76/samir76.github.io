@@ -35,6 +35,13 @@ export const cardImages = [
     parts: "vortex",
   },
   {
+    src: "/img/weedplants/Home1.jpg",
+    alt: "weedplants",
+    url: "/projects/weedplants",
+    badge: "Website",
+    parts: "weedplants",
+  },
+  {
     src: "/img/TF/Home.jpg",
     alt: "tomorrow_foundation",
     url: "/projects/tomorrow_foundation",
@@ -54,13 +61,6 @@ export const cardImages = [
     url: "/projects/awash",
     badge: "Website",
     parts: "Awash",
-  },
-  {
-    src: "/img/exp/2.jpg",
-    alt: "exp",
-    url: "/projects/exp",
-    badge: "Website",
-    parts: "exp",
   },
   {
     src: "/img/gizham/page1.jpg",
@@ -163,4 +163,10 @@ export const Details = [
     title: 'WEBSITE SHOWCASE FOR VORTEX',
     description: 'This is a websitedesign I made for Vortex, and submitted to them as clients to Farmguide.'
   },
+  {
+    id: 13,
+    name: "/projects/weedplants/",
+    title: 'WEBSITE SHOWCASE FOR Weedplants',
+    description: 'This is a an Json showcase in react of Weedplants obtained from CISRO and displayed in FarGuide site.',
+  }
 ];

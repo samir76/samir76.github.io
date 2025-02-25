@@ -1,7 +1,7 @@
 "use client";
 
 import Photoalbum from "@/app/util/photoalbum";
-import { exp } from "@/app/items/farmguide";
+import {weedplants} from "@/app/items/farmguide";
 import ContentPage from "@/app/util/ContentPage";
 import { Details } from "@/app/items/CardImages";
 
@@ -17,7 +17,7 @@ export default function farmguide() {
   return (
     <>
     <ContentPage title={details.title} description={details.description}>
-      <Photoalbum photos={exp} />
+      <Photoalbum photos={weedplants} />
       </ContentPage>
     </>
   );

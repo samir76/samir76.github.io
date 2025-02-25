@@ -458,3 +458,32 @@ export const social_ads = [
   }
 
 ] as Photo[];
+
+
+export const weedplants = [
+  {
+    src: "/img/weedplants/home1.jpg",
+    width: 1080,
+    height: 1216,
+    alt: "home1", 
+  },
+  {
+    src: "/img/weedplants/desc3.jpg",
+    width: 1080,
+    height: 671,
+    alt: "desc3", 
+  },
+  {
+    src: "/img/weedplants/list2.jpg",
+    width: 1080,
+    height: 1319,
+    alt: "list2", 
+  },
+  {
+    src: "/img/weedplants/list4.jpg",
+    width: 1080,
+    height: 1310,
+    alt: "list4", 
+  }
+
+] as Photo[];
