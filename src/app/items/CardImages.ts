@@ -35,7 +35,7 @@ export const cardImages = [
     parts: "vortex",
   },
   {
-    src: "/img/weedplants/Home1.jpg",
+    src: "/img/weedplants/home1.jpg",
     alt: "weedplants",
     url: "/projects/weedplants",
     badge: "Website",
