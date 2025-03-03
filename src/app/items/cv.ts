@@ -24,6 +24,7 @@ export const experience = [
         "Managed digital marketing channels and campaigns including web, social media, Search engine optimization (SEO) tools.",
         "Designed and produced digital display advertising and retargeting.",
         "Designed and prepared FarmGuide Yearly books periodically.",
+        "Designed HTML Emails and worked in ecommerce platform called ‘Act!’ as part of email campaigns.",
       ],
       Accomplishments: [
         "Redesigned a new and improved site in PHP & JS using WordPress, updating Articles, blog and a database of tens of thousands of listings.",
