@@ -15,7 +15,7 @@ import Link from "next/link" ;
 export default function Home() {
   return (
     <>
-    <div className="bg-gray-100 min-h-screen">
+    <div className="bg-gray-50 min-h-screen">
       <div className="w-full max-w-5xl mx-auto px-4 md:px-6 py-7">
       <MyHeader />
       
