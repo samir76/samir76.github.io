@@ -6,7 +6,7 @@ import { Tomorrow_Foundation } from "@/app/items/farmguide";
 import ContentPage from "@/app/util/ContentPage";
 import { Details } from "@/app/items/CardImages";
 
-export default function farmguide() {
+export default function TOMORROW_FOUNDATION() {
 
   const pageId= 11; 
   const details = Details.find((detail) => detail.id === pageId);

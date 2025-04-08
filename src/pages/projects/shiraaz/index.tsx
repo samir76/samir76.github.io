@@ -6,7 +6,7 @@ import { shiraaz } from "@/app/items/farmguide";
 import ContentPage from "@/app/util/ContentPage";
 import { Details } from "@/app/items/CardImages";
 
-export default function farmguide() {
+export default function SHIRAAZ() {
 
   const pageId= 9; 
   const details = Details.find((detail) => detail.id === pageId);

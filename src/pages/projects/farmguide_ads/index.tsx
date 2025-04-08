@@ -6,7 +6,7 @@ import { farmguide_addesigns } from "@/app/items/farmguide";
 import ContentPage from "@/app/util/ContentPage";
 import { Details } from "@/app/items/CardImages";
 
-export default function farmguide() {
+export default function FARMGUIDE_ADS() {
 
   const pageId= 5; 
   const details = Details.find((detail) => detail.id === pageId);

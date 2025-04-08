@@ -14,6 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 function MyApp({ Component, pageProps }: AppProps) {
+  const componentName = Component.displayName || Component.name || "Home";
+  const pageTitle = `${componentName} - Samir Ibrahim`;
   return (
     <>
       <Head>
@@ -21,6 +23,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         {/* Add other favicon sizes if needed */}
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <title>{pageTitle}</title>
       </Head>
       <Component {...pageProps} />
     </>

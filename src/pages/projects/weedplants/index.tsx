@@ -5,7 +5,7 @@ import {weedplants} from "@/app/items/farmguide";
 import ContentPage from "@/app/util/ContentPage";
 import { Details } from "@/app/items/CardImages";
 
-export default function farmguide() {
+export default function Farmguide_WeedPlants() {
 
   const pageId= 3; 
   const details = Details.find((detail) => detail.id === pageId);

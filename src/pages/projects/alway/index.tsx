@@ -6,7 +6,7 @@ import {alway} from "@/app/items/farmguide";
 import ContentPage from "@/app/util/ContentPage";
 import { Details } from "@/app/items/CardImages";
 
-export default function farmguide() {
+export default function ALWAY() {
 
   const pageId= 1; // The ID corresponding to this page
   const details = Details.find((detail) => detail.id === pageId);

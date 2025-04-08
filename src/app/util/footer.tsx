@@ -14,14 +14,15 @@ export default function Footer() {
           &copy; 2025 Samir Ibrahim. 
         </div>
         <div className="flex justify-center gap-4 mt-2">
-          <Link href="https://github.com/samir76/">
+          <Link href="https://github.com/samir76/" aria-label="GitHub">
           <FaGithub color="gray" size={18} />
           </Link>
           
-          <Link href="https://www.linkedin.com/in/samir-ibrahim-293855214/">
+          <Link href="https://www.linkedin.com/in/samir-ibrahim-293855214/" aria-label="LinkedIn">
           <FaLinkedin color="gray" size={18} />
           </Link>
-          <Link href="https://dribbble.com/SamirIbrahim">
+          <Link href="https://dribbble.com/SamirIbrahim"
+            aria-label="Dribbble">
           <FaDribbble color="gray" size={18} />
           </Link>
         </div>

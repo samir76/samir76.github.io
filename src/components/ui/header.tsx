@@ -68,7 +68,7 @@ function MyHeader() {
         </div>
 
         <div className="lg:hidden flex items-center">
-          <button
+          <button name="line" 
             onClick={() => setOpen(!isOpen)}
             className="text-gray-500 focus:outline-none"
           >
