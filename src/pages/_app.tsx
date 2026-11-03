@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 function MyApp({ Component, pageProps }: AppProps) {
-  // const componentName = Component.displayName || Component.name || "Home";
+  const componentName = Component.displayName || Component.name || "Home";
   // const pageTitle = `${componentName} - Samir Ibrahim`;
-  const pageTitle = `Samir Ibrahim`;
+  const pageTitle = "Samir Ibrahim";
 
   return (
     <>
